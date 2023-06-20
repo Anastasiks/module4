@@ -20,3 +20,12 @@ def stronger2(s):
     for i, count in syms_counter.items():
         print(i, count)
 stronger2("abbs")
+
+            # ДЗ
+# a = input("Напишите строку: ")
+# c = "".join(reversed(a))
+# if a == c:
+#     print("True")
+# else:
+#     print("False")
+
